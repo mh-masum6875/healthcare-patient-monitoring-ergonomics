@@ -1,4 +1,4 @@
-# 🏥 Healthcare Patient Monitoring & Workplace Ergonomics Vision AI
+# Patient Monitoring and Workplace Ergonomics Vision
 
 [![Healthcare AI](https://img.shields.io/badge/Application-Patient%20Monitoring%20%26%20Safety-red)](https://github.com/mh-masum6875/healthcare-patient-monitoring-ergonomics)
 [![Ergonomics](https://img.shields.io/badge/Ergonomics-Posture%20Assessment-green)](https://github.com/mh-masum6875/healthcare-patient-monitoring-ergonomics)
@@ -9,7 +9,7 @@ A non-invasive vision intelligence system designed for hospital wards, elderly c
 
 ---
 
-## 🔬 Core Clinical & Ergonomic Capabilities
+## Core Clinical & Ergonomic Capabilities
 
 ### 1. In-Bed Patient Agitation & Restlessness Tracking (`inbed_restlessness_tracker.py`)
 - Automatically identifies patient bed boundaries.
@@ -27,7 +27,7 @@ A non-invasive vision intelligence system designed for hospital wards, elderly c
 
 ---
 
-## 🛠️ Quickstart
+## Quickstart
 
 ```bash
 git clone https://github.com/mh-masum6875/healthcare-patient-monitoring-ergonomics.git
@@ -40,5 +40,5 @@ python src/inbed_restlessness_tracker.py --source patient_room.mp4
 
 ---
 
-## 📄 License
+## License
 This project is licensed under the MIT License.
